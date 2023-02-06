@@ -29,15 +29,6 @@ js_config:
   Wait: 2
 - Container:
   - []
-  Env: jd_wxShopFollowActivity_activityId
-  KeyWord:
-  - - jd_wxShopFollowActivity_activityId
-  Name: 【faker2】关注店铺有礼
-  Script: shufflewzc_faker2_main/jd_wxShopFollowActivity.js
-  TimeOut: 0
-  Wait: 2
-- Container:
-  - []
   Env: jd_wxShopFollowActivity_activityUrl
   KeyWord:
   - - jd_wxShopFollowActivity_activityUrl
