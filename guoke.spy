@@ -361,7 +361,7 @@ js_config:
   Env: jd_lzkj_interactsaas_yqhyrh_activityId
   KeyWord:
   - - jd_lzkj_interactsaas_yqhyrh_activityId
-  Name: 【保护环境】lzkj_interactsaas邀请好友入会10070
+  Name: 【保护环境】lzkj_interactsaas邀请好友入会10006-10070
   Script: feverrun_my_scripts/jd_lzkj_interactsaas_yqhyrh.js
   TimeOut: 0
   Wait: 2
