@@ -39,6 +39,16 @@ js_config:
   Wait: 2
 - Container:
   - []
+  Env: jd_wxShopFollowId
+  KeyWord:
+  - - jd_wxShopFollowId
+  - - jd_wxShopFollowActivity_activityId
+  Name: 【船长】关注店铺有礼-JK
+  Script: HarbourJ_HarbourToulu/jd_wxShopFollow.py
+  TimeOut: 0
+  Wait: 2
+- Container:
+  - []
   Env: jd_cjhy_wxShopFollowActivity_activityId
   KeyWord:
   - - jd_cjhy_wxShopFollowActivity_activityId
