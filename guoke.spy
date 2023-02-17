@@ -359,15 +359,6 @@ js_config:
   Wait: 2
 - Container:
   - []
-  Env: jd_loreal_interact_yqrhyl_activityId
-  KeyWord:
-  - - jd_loreal_interact_yqrhyl_activityId
-  Name: 【保护环境】loreal邀请入会有礼10006
-  Script: feverrun_my_scripts/jd_loreal_interact_yqrhyl.js
-  TimeOut: 0
-  Wait: 2
-- Container:
-  - []
   Env: jd_lzkj_interactsaas_yqhyrh_activityId
   KeyWord:
   - - jd_lzkj_interactsaas_yqhyrh_activityId
